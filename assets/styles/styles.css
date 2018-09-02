@@ -1,0 +1,49 @@
+body{
+    max-width: 1440px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: 'Roboto', sans-serif;
+}
+#subNav{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.header{
+    background-image: url("../images/home.jpg");
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+    
+    
+}
+
+a{
+    color: white !important;
+}
+
+h4{
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 10%;
+}
+
+.about{
+    margin-top: 150px;
+}
+
+.jobs{
+    margin-top: 250px;
+}
+.card{
+    margin-top: 10px;
+    
+}
+
+#buttonApply{
+    width: 110px;
+    background-color: orange;
+}
